@@ -1,0 +1,60 @@
+bd+
+
+flex    flex:;
+
+fxb
+    flex-basis:;
+
+fxd
+    flex-direction:;
+
+fxd:c
+    flex-direction:column;
+
+fxd:cr
+    flex-direction:column-reverse;
+
+fxd:r
+    flex-direction:row;
+
+fxd:rr
+    flex-direction:row-reverse;
+
+fxf
+    flex-flow:;
+
+fxg
+    flex-grow:;
+
+fxsh
+    flex-shrink:;
+
+fxw
+    flex-wrap: ;
+
+fxw:n
+    flex-wrap:nowrap;
+
+fxw:w
+    flex-wrap:wrap;
+
+fxw:wr
+    flex-wrap:wrap-reverse;
+
+jc
+    justify-content:;
+
+jc:c
+    justify-content:center;
+
+jc:fe
+    justify-content:flex-end;
+
+jc:fs
+    justify-content:flex-start;
+
+jc:sa
+    justify-content:space-around;
+
+jc:sb
+    justify-content:space-between; 
